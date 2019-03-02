@@ -4,4 +4,4 @@ I will do the same thing twice but in a different language, one is R and the oth
 
 Course Schedule:
 
-1.Introduction + Random number
+1. Introduction + Random number
