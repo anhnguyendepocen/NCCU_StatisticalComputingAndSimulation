@@ -1,6 +1,6 @@
 # NCCU course : Statistical Computing and Simulation
 
-I will do the same thing twice but in a different languages, one is R and the other is Python.
+I will do the same thing twice but in different languages, one is R and the other is Python.
 
 Detailed description of the content I will present in Python folder.
 
