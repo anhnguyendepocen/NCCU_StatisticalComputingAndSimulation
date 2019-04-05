@@ -8,3 +8,4 @@ Course Schedule:
 
 1. Introduction + Random number
 2. Simulation of probability distribution
+3. Monte Carlo integration
