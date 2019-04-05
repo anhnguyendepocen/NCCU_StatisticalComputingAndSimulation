@@ -10,3 +10,4 @@ Course Schedule:
 2. Simulation of probability distribution
 3. Monte Carlo integration
 4. Brownian motion
+5. Numerical methods
