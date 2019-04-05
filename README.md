@@ -7,3 +7,4 @@ Detailed description of the content I will present in Python folder.
 Course Schedule:
 
 1. Introduction + Random number
+2. Simulation of probability distribution
